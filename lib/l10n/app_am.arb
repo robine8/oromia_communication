@@ -1,0 +1,19 @@
+{
+  "@@locale": "am",
+  "appTitle": "ኦሮሚያ ኮሙኒኬሽን ቢሮ",
+  "welcome": "እንኳን ደህና መጡ",
+  "login": "ግባ",
+  "register": "ተመዝገብ",
+  "logout": "ውጣ",
+  "home": "መነሻ",
+  "news": "ዜና",
+  "shop": "ሱቅ",
+  "reader": "አንባቢ",
+  "profile": "መገለጫ",
+  "search": "ፈልግ",
+  "loading": "በመጫን ላይ...",
+  "error": "ስህተት ተከስቷል",
+  "retry": "እንደገና ሞክር",
+  "noInternet": "የበይነመረብ ግንኙነት የለም",
+  "pageNotFound": "ገጽ አልተገኘም"
+}

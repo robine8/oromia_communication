@@ -1,0 +1,16 @@
+﻿[
+  {
+    "id": 1,
+    "title": "Oromia Launches New Digital Transformation Initiative",
+    "content": "The Oromia Communication Bureau has launched a comprehensive digital transformation initiative.",
+    "excerpt": "New digital initiative launched to modernize government communication.",
+    "categoryId": 1,
+    "categoryName": "Technology",
+    "categorySlug": "technology",
+    "author": "Communication Bureau",
+    "publishedAt": "2024-12-13T10:00:00",
+    "viewCount": 104,
+    "isFeatured": true,
+    "imageUrl": "https://picsum.photos/seed/oromia1/800/400"
+  }
+]

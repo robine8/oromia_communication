@@ -1,0 +1,64 @@
+name: oromia_communication_bureau
+description: A Flutter application for Oromia Communication Bureau
+publish_to: 'none'
+
+environment:
+  sdk: '^3.12.0'
+  flutter: '>=3.16.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Internationalization
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2  # Changed from ^0.18.0 to ^0.20.2
+  
+  # State Management
+  flutter_riverpod: ^2.3.6
+  
+  # Navigation
+  go_router: ^10.0.0
+  
+  # Networking
+  dio: ^5.2.0
+  
+  # Storage
+  flutter_secure_storage: ^9.0.0
+  
+  # Image Caching
+  cached_network_image: ^3.2.3
+  
+  # URL Launcher
+  url_launcher: ^6.1.12
+  
+  # Logging
+  logger: ^1.4.0
+  
+  # Device Info
+  device_info_plus: ^9.0.0
+  
+  # File/Path
+  path_provider: ^2.1.0
+  
+  # Video Player
+  video_player: ^2.7.0
+  
+  # Video Player UI
+  chewie: ^1.7.0
+  
+  # Photo Viewer
+  photo_view: ^0.14.0
+  
+  # Image Picker
+  image_picker: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true

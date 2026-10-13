@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "appTitle": "Oromia Communication Bureau",
+  "appTitle_comment": "The title of the application",
+  "welcome": "Welcome",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "home": "Home",
+  "news": "News",
+  "shop": "Shop",
+  "reader": "Reader",
+  "profile": "Profile",
+  "search": "Search",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "retry": "Retry",
+  "noInternet": "No internet connection",
+  "pageNotFound": "Page not found"
+}

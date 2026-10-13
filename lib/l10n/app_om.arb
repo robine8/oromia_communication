@@ -1,0 +1,19 @@
+{
+  "@@locale": "om",
+  "appTitle": "Biiroo Kominikeeshinii Oromiyaa",
+  "welcome": "Baga Nagaan Dhuftan",
+  "login": "Seeni",
+  "register": "Galmaa'i",
+  "logout": "Ba'i",
+  "home": "Mana",
+  "news": "Oduu",
+  "shop": "Dukaana",
+  "reader": "Dubbisaa",
+  "profile": "Prifooyilii",
+  "search": "Barbaadi",
+  "loading": "Fe'aa jira...",
+  "error": "Dogoggorri uumame",
+  "retry": "Irra deebi'i",
+  "noInternet": "Internet hin qabdu",
+  "pageNotFound": "Fuula hin argamne"
+}
